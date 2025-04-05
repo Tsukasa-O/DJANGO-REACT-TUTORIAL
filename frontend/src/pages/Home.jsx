@@ -68,7 +68,7 @@ function Home() {
                 onChange={(e) => setContent(e.target.value)}
             ></textarea>
             <br />
-            <input type="submit" value="submit"></input>
+            <input type="submit" value="Submit"></input>
         </form>
     </div>
 }
